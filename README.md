@@ -84,7 +84,7 @@ AWS · Docker · GitHub Actions
 ## 🤝 Connect With Me
 
 - **Resume:** https://drive.google.com/file/d/1JtQagwprq6nta1hFTHG1gsoVNtfmDz4h/view?usp=sharing  
-- **LinkedIn:** https://www.linkedin.com/in/harshit-sharma-b93192199  
+- **LinkedIn:** https://www.linkedin.com/in/harshitsharma-tech 
 - **Email:** harshitsharma9989@gmail.com  
 - **Phone:** +91 93699 66830  
 - **GitHub:** https://github.com/sharmaHarshit2000
