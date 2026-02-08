@@ -12,6 +12,10 @@
   <img src="https://img.shields.io/github/followers/sharmaHarshit2000?label=Followers&style=social" />
 </p>
 
+<p align="center">
+  📄 <a href="https://drive.google.com/file/d/1JtQagwprq6nta1hFTHG1gsoVNtfmDz4h/view?usp=sharing" target="_blank"><b>View Resume</b></a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -79,7 +83,8 @@ AWS · Docker · GitHub Actions
 
 ## 🤝 Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/harshitsharma-tech
+- **Resume:** https://drive.google.com/file/d/1JtQagwprq6nta1hFTHG1gsoVNtfmDz4h/view?usp=sharing  
+- **LinkedIn:** https://www.linkedin.com/in/harshit-sharma-b93192199  
 - **Email:** harshitsharma9989@gmail.com  
 - **Phone:** +91 93699 66830  
 - **GitHub:** https://github.com/sharmaHarshit2000
